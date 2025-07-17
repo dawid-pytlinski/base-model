@@ -1,4 +1,4 @@
-
+import network_architecture
 import pytest
 import numpy as np
 from keras import models, layers
